@@ -1,5 +1,5 @@
 project: rnshah9/ppp
-target: ppp
+target: pppdump
 
 cmds:
   - cmd: /repo/pppdump/pppdump
