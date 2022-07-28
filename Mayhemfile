@@ -2,4 +2,4 @@ project: ppp
 target: pppdump
 
 cmds:
-  - cmd: /repo/pppdump/pppdump
+  - cmd: /install/sbin/pppdump
